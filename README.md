@@ -1,6 +1,6 @@
 # Autoinstall
 ---
-A tool auto install DirectAdmin with one command
+A tool autoinstall DirectAdmin
 
 ## HOW TO USE:
 ### 1. Download bash script
